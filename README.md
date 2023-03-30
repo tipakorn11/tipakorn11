@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Clevins
-- 👀 I’m interested in react and laravel 
+- 👀 I’m interested in react laravel and vue and angular 
 - 🌱 I’m currently learning in rajamangala university of technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tipakornjomko@gmail.com or thipakorn chomko fb
